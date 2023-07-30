@@ -4,7 +4,7 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drecaraiba@gmail.com)
 ![](https://shields-io-visitor-counter.herokuapp.com/badge?page=andrecaraiba.andrecaraiba&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
-I am B.Sc. Student of Electrical Engineering at the Universidade Federal de Goiás (UFG). I am very interested in robotics, artificial intelligence and data.
+I am B.Sc. Student of Electrical Engineering at the Universidade Federal de Goiás (UFG). I am very interested in robotics, artificial intelligence.
 
 ---
 ### Language and Tools
